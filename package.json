@@ -1,0 +1,12 @@
+{
+  "name": "javascript-tetris-adaptive",
+  "version": "1.0.0",
+  "description": "A responsive, dependency-free HTML5 Tetris game that scales to any screen size.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iotzov/javascript-tetris-adaptive"
+  },
+  "author": "",
+  "license": "MIT"
+}
